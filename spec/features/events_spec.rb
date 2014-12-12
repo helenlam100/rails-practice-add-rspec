@@ -53,6 +53,8 @@ feature "Events" do
     expect(page).to have_content("Ramen festival")
   end
 
+  # scenario "authenticate "
+
 #feature is your big organizing category, your CRUD
 #scenario is  testing one way the feature behaves.
 # you have a resource and want to test the actions for it
